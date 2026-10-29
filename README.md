@@ -20,6 +20,7 @@ Symlink what you need:
 ln -sf ~/dotfiles/zshrc ~/.zshrc
 ln -sf ~/dotfiles/nvim ~/.config/nvim
 ln -sf ~/dotfiles/hypr ~/.config/hypr
+ln -sf ~/dotfiles/kitty ~/.config/kitty
 ```
 
 Arch packages I use: `hyprland`, `zsh`, `neovim`, `git`, `kitty`.
