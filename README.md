@@ -9,6 +9,8 @@ My personal dotfiles. Arch Linux + Hyprland, zsh, and Neovim.
 | `hypr/` | Hyprland config (HyDE-based), hyprlock, hypridle, shaders |
 | `nvim/` | Neovim config (LazyVim) |
 | `zshrc` | zsh config (Oh My Zsh) |
+| `kitty` | kitty config  |
+
 
 ## Setup
 
